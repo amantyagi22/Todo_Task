@@ -1,3 +1,10 @@
+# TODO LIST
+
+1. Nodejs Server hosted over Heroku
+2. MongoDB hosted over MongoDB Atlas
+
+### URL : https://warm-cove-39826.herokuapp.com/
+
 # Screenshots
 
 ## Today's Todo List
