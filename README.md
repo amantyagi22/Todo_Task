@@ -1,4 +1,4 @@
-# TODO LIST
+# TODO LIST 📔
 
 1. Nodejs Server hosted over Heroku
 2. MongoDB hosted over MongoDB Atlas
