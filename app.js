@@ -16,10 +16,6 @@ mongoose.connect(process.env.MONGO_URL, {
   useUnifiedTopology: true,
   useFindAndModify: false,
 });
-// Error Handling
-app.use("/:string", async (req, res) => {
-  res.status(200).send("404 Page Not Found");
-});
 app.use("/", listRouter);
 
 let port = process.env.PORT;
