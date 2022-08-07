@@ -3,7 +3,7 @@
 1. Nodejs Server hosted over Heroku
 2. MongoDB hosted over MongoDB Atlas
 
-### URL : https://todo-list-diff.herokuapp.com/
+### URL : https://w3devtodo.herokuapp.com/
 
 # Screenshots
 
